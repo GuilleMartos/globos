@@ -1,2 +1,2 @@
 # Globos
-Repositorio para hacer pruebas con git
+Ejemplo de cambio de readme para github
