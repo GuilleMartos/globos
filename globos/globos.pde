@@ -20,7 +20,7 @@ class Globo
     color c=color(random(255),random(255),random(255));
       fill(c);
       ellipse(x,y,100,150);
-      image(cara,x-25,y-15,50,50);
+      image(cara,x-50,y-50,50,50);
   }
   
 }
